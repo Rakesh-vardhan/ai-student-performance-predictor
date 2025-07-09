@@ -1,7 +1,7 @@
 # Student Performance Predictor
 
 A full-stack web application that predicts a student’s academic performance and provides personalized recommendations based on course grades, attendance, CGPA, internships, and certifications. The backend uses machine learning models deployed with Flask, and the frontend is an interactive HTML/JavaScript interface.
-
+https://xkqb300k-5000.inc1.devtunnels.ms/
 ---
 
 Table of Contents
